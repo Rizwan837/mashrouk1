@@ -1,0 +1,122 @@
+.chatfixpos {
+	position: fixed;
+	bottom: 15px;
+	right: 16px;
+}
+.modal-content.chatinnerfixpos {
+	position: fixed !important;
+	width: 320px !important;
+	bottom: 85px !important;
+	right: 10px;
+	height: 320px;
+	background: #4a4e5b;
+}
+.btn.btn-primary.chatfixpos {
+	background: #23a352 !important;
+	border-radius: 50px;
+	border: 0;
+	height: 50px;
+	width: 50px;
+}
+.modal-dialog.modfics.modal-dialog-centered {
+	position: fixed !important;
+}
+.ch-b {
+	color: #fff;
+	font-size: 12px;
+	text-align: center;
+	padding-top: 30px;
+	font-weight: 500;
+	padding-bottom: 14px;
+}
+.ch-bi1 {
+	background: #23a352;
+	text-decoration: none;
+	color: #fff;
+	padding: 8px 13px;
+	font-size: 11px;
+	border-radius: 4px;
+	font-weight: 500;
+}
+.btn.btn-primary.ch-bi {
+	padding: 6px 24px !important;
+	font-size: 11px !important;
+	font-weight: 500;
+}
+.bi.bi-chat-dots {
+	position: relative;
+	top: 5px;
+}
+.modal.fade .modal-dialog {
+	transition: transform .0s ease-out !important;
+}
+.ch-bi2 {
+	background: #456ec1;
+	text-decoration: none;
+	color: #fff;
+	padding: 8px 13px;
+	font-size: 11px;
+	border-radius: 4px;
+	font-weight: 500;
+}
+.text-center.or {
+	color: #fff;
+	padding-top: 18px;
+	font-size: 13px;
+	font-weight: 500;
+}
+.btn32 {
+	background: transparent !important;
+	border: 0 !important;
+	color: #fff;
+}
+.chat-001.text-center {
+	color: #fff;
+	font-size: 12px;
+}
+.chat-002 p {
+	color: #fff;
+	font-size: 11px;
+	margin-bottom: 2px;
+	font-weight: 500;
+}
+.chat-003 p {
+	color: #fff;
+	font-size: 11px;
+	margin-bottom: 2px;
+	font-weight: 500;
+}
+.chat-002 h6 {
+	background: #fff;
+	padding: 6px 5px;
+	font-size: 11px;
+	border-radius: 4px;
+	width: 118px;
+}
+.chat-002 {
+	width: 100%;
+	float: left;
+}
+.chatsubtn {
+	background: #fff !important;
+	border: 0;
+	height: 31px;
+	width: 35px;
+}
+.chatinou {
+	width: 214px;
+	height: 31px;
+	border: 0 !important;
+}
+.chat-003 h6 {
+	background: #456ec1;
+	padding: 6px 5px;
+	font-size: 11px;
+	border-radius: 4px;
+	width: 165px;
+	color: #fff;
+}
+.chat-003 {
+	text-align: right;
+	float: right;
+}

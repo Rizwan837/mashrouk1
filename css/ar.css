@@ -1,0 +1,22 @@
+body {
+	font-family: 'Almarai', sans-serif !important;
+}
+[type="email"], [type="number"], [type="tel"], [type="url"] {
+	direction: rtl !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 600;
+    font-size: 14px !important;
+	color: #5B6A77;
+}
+.why-choose-us-1 h6 {
+	font-weight: 600 !important;
+}
+.chatfixpos {
+	right: unset !important;
+	left: 18px !important;
+}
+.modal-content.chatinnerfixpos {
+	right: unset !important;
+	left: 10px !important;
+}
